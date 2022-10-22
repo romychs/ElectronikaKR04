@@ -21,7 +21,9 @@
 [Готовые схемы](Export)
 
 [Тема по данному компьютеру на форуме zx-pk.ru](https://zx-pk.ru/threads/23521-elektronika-kr-04.html)
+
 [Телеграм чат "ПК на 8080|8085 — hardware"](https://t.me/vm80a)
+
 ![2D-View](preview.png?raw=true "2D View")
 
 
