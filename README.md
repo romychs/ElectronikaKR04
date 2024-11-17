@@ -38,4 +38,4 @@
 
 [Телеграм топик по КР04"](https://t.me/c/1363162444/57983)
 
-![2D-View](preview.png?raw=true "2D View")
+![2D-View](preview.jpg?raw=true "2D View")
